@@ -6,9 +6,8 @@
 ### Escape the Backrooms External ESP + Aimbot
 
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D6)
-![Engine](https://img.shields.io/badge/engine-UE5.6-7A28CB)
 ![Python](https://img.shields.io/badge/python-3.11%2B-3776AB)
-![Version](https://img.shields.io/badge/version-2.1.0-ff2e97)
+![Version](https://img.shields.io/badge/version-2.0.0-ff2e97)
 
 A fully external ESP and aimbot for **Escape the Backrooms**.
 
